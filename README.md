@@ -1,2 +1,2 @@
 # IBM-course-
-this repository is for ibm last course 
+this repository is for ibm data science last course 
